@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://youtu.be/oKIThIihv60" target="_blank">
@@ -43,6 +44,8 @@ A minimalistic Figma clone to show how to add real-world features like live coll
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
 <a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+=======
+>>>>>>> 0b40992ec7381c494e5124aee320d648c512cad0
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -83,6 +86,7 @@ and many more, including code architecture, advanced react hooks, and reusabilit
 
 Follow these steps to set up the project locally on your machine.
 
+<<<<<<< HEAD
 **Prerequisites**
 
 Make sure you have the following installed on your machine:
@@ -91,6 +95,8 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
+=======
+>>>>>>> 0b40992ec7381c494e5124aee320d648c512cad0
 **Cloning the Repository**
 
 ```bash
@@ -804,6 +810,7 @@ export const PinnedThread = ({ thread, onFocus, ...props }: Props) => {
 ```
 
 </details>
+<<<<<<< HEAD
 
 ## <a name="links">🔗 Links</a>
 
@@ -832,3 +839,5 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
+=======
+>>>>>>> 0b40992ec7381c494e5124aee320d648c512cad0
